@@ -11,7 +11,7 @@ suitable crop to grow. Trained on 15,000 records covering 23 crops.
 |---|---|
 | `Cleaned_Dataset.xlsx` | Your dataset (15,000 rows, 23 crops) |
 | `train_model.py` | Trains the Random Forest model, saves it, exports metrics |
-| `crop_model.pkl` | The trained model (already generated for you) |
+| `crop_model.pkl` | The trained model  |
 | `features.pkl` | List of feature columns the model expects |
 | `dashboard_data.json` | Metrics/charts data used by the dashboard |
 | `app.py` | The dashboard + interactive frontend (Streamlit) |
